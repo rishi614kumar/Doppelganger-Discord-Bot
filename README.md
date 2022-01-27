@@ -36,7 +36,7 @@ Doppelganger Bot comes with several commands and features. Some commands are req
 # Usage
 For first time usage:
 1. Ensure you have all necessary packages and installations at the correct versions.
-2. Download doppelganger_bot.py, doppelganger_train.py, and [discord_message_parser.py]() to the same directory.
+2. Download doppelganger_bot.py, doppelganger_train.py, and [discord_message_parser.py](https://github.com/rishi614kumar/Discord-Message-Parser) to the same directory.
 3. Choose your preferred settings and fill in your information in doppelganger_bot.py (things like bot token, command prefix, users to pull data from, keyword activation).
 4. Run doppelganger_bot.py.
 5. Type the !scrape command in a channel that the bot has access to. Make sure your channel ids are loaded in doppelganger_bot.py before doing this.
